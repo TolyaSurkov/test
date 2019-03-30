@@ -1,4 +1,10 @@
-TEST 
+“ут был јртем 
 TEST
 TEST
+Hello
 HELLO WORLD
+public static void main()
+{
+printf("test"); 
+return 0;
+}
