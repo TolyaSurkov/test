@@ -1,5 +1,6 @@
-“ут был јртем 
+#include <studio.h>
 TEST
+aaaa
 TEST
 Hello
 HELLO WORLD
