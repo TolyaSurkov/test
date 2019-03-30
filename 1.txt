@@ -1,11 +1,9 @@
 #include <studio.h>
-TEST
-aaaa
-TEST
-Hello
-HELLO WORLD
+
 public static void main()
 {
-printf("test"); 
+int i;
+i = 2*2;
+printf("test %d",i); 
 return 0;
 }
