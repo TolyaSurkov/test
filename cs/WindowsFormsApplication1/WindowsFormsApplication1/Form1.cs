@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.textBox1.Text = "Привет";
+            MessageBox.Show("Привет, " + this.textBox1.Text); 
         }
     }
 }
